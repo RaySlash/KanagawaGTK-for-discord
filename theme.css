@@ -3716,8 +3716,8 @@ li[id*="chat-messages-921217923790561360-"]
 }
 
 @font-face {
-  font-family: "TerminessTTF Mono";
-  src: url("https://raw.githubusercontent.com/ardishco-the-great/catpuccin-with-emojis/main/Terminess%20(TTF)%20Nerd%20Font%20Complete%20Mono.ttf");
+  font-family: "IosevkaTermNerdFont-Regular";
+  src: url("https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/IosevkaTerm/IosevkaTermNerdFont-Regular.ttf");
 }
 :root {
   --font-primary: "Atkinson-Hyperlegible";
