@@ -3716,13 +3716,13 @@ li[id*="chat-messages-921217923790561360-"]
 }
 
 @font-face {
-  font-family: "IosevkaTermNerdFont-Regular";
-  src: url("https://github.com/ryanoasis/nerd-fonts/raw/refs/heads/master/patched-fonts/IosevkaTerm/IosevkaTermNerdFont-Regular.ttf");
+  font-family: "IosevkaTermNerdFontMono-Regular";
+  src: url("https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/IosevkaTerm/IosevkaTermNerdFontMono-Regular.ttf");
 }
 :root {
   --font-primary: "Atkinson-Hyperlegible";
   --font-headline: "Atkinson-Hyperlegible";
-  --font-code: "IosevkaTermNerdFont-Regular";
+  --font-code: "IosevkaTermNerdFontMono-Regular";
   --font-display: "Atkinson-Hyperlegible";
   /* above line changes the primary font only. You can also change the ones below (remove this line to activate the lines below)
     --font-display: "Roboto";
